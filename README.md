@@ -1,4 +1,4 @@
-//David Spear
+//David
 # DOM I
 
 ## Project Description
